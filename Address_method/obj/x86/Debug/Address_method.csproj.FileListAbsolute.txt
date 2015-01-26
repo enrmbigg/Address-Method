@@ -1,0 +1,24 @@
+C:\Users\michael.biggs\Desktop\My Documents\HHT Team\Projects\Address_method\Address_method\bin\Debug\Address_method.exe
+C:\Users\michael.biggs\Desktop\My Documents\HHT Team\Projects\Address_method\Address_method\bin\Debug\Address_method.pdb
+C:\Users\michael.biggs\Desktop\My Documents\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.Form1.resources
+C:\Users\michael.biggs\Desktop\My Documents\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.Properties.Resources.resources
+C:\Users\michael.biggs\Desktop\My Documents\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.csproj.GenerateResource.Cache
+C:\Users\michael.biggs\Desktop\My Documents\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.exe
+C:\Users\michael.biggs\Desktop\My Documents\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.pdb
+C:\Users\michael.biggs\Desktop\My Documents\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.csprojResolveAssemblyReference.cache
+C:\Users\michael.biggs\Desktop\My Folder\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.exe
+C:\Users\michael.biggs\Desktop\My Folder\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.pdb
+C:\Users\michael.biggs\Desktop\My Folder\HHT Team\Projects\Address_method\Address_method\bin\Debug\Address_method.exe
+C:\Users\michael.biggs\Desktop\My Folder\HHT Team\Projects\Address_method\Address_method\bin\Debug\Address_method.pdb
+C:\Users\michael.biggs\Desktop\My Folder\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.csprojResolveAssemblyReference.cache
+C:\Users\michael.biggs\Desktop\My Folder\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.Form1.resources
+C:\Users\michael.biggs\Desktop\My Folder\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.Properties.Resources.resources
+C:\Users\michael.biggs\Desktop\My Folder\HHT Team\Projects\Address_method\Address_method\obj\x86\Debug\Address_method.csproj.GenerateResource.Cache
+C:\Users\Michael.Biggs\Desktop\code\Address_method\Address_method\obj\x86\Debug\Address_method.exe
+C:\Users\Michael.Biggs\Desktop\code\Address_method\Address_method\obj\x86\Debug\Address_method.pdb
+C:\Users\Michael.Biggs\Desktop\code\Address_method\Address_method\bin\Debug\Address_method.exe
+C:\Users\Michael.Biggs\Desktop\code\Address_method\Address_method\bin\Debug\Address_method.pdb
+C:\Users\Michael.Biggs\Desktop\code\Address_method\Address_method\obj\x86\Debug\Address_method.csprojResolveAssemblyReference.cache
+C:\Users\Michael.Biggs\Desktop\code\Address_method\Address_method\obj\x86\Debug\Address_method.Form1.resources
+C:\Users\Michael.Biggs\Desktop\code\Address_method\Address_method\obj\x86\Debug\Address_method.Properties.Resources.resources
+C:\Users\Michael.Biggs\Desktop\code\Address_method\Address_method\obj\x86\Debug\Address_method.csproj.GenerateResource.Cache
